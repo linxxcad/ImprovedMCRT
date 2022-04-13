@@ -5,7 +5,7 @@ Different testing environments and running times(e.g. 6282_12clock.sh with 200 m
 |:---|:---|:---|:---|
 |Nvidia GeForce RTX 3090|460.84|11.1| 0.13s|
 |Nvidia GeForce RTX 1080ti|470.103|10.2| 0.25s|
-|Nvidia GeForce RTX 1080ti|455.45|11.1| 0.38s|
+|Nvidia GeForce RTX 1080|455.45|11.1| 0.38s|
 ## How to run  
 After download files, need to grant permissions to MCRTlxx:
 ```
