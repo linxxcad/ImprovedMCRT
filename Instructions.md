@@ -19,7 +19,7 @@ sh xxx.sh
 You can design the input files according to your own needs, and then use MCRTlxx to simulate your mirror field.
 
 ## How to design the inputfiles   
-Inputfiles consist of three files, a json file for setting simulation parameters, a scn file for setting heliostat field and a txt file for simulated heliostat id().
+Inputfiles consist of three files, a json file for setting simulation parameters, a scn file for setting heliostat field and a txt file.
 
 
 ## Results  
