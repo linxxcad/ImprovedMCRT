@@ -1,5 +1,5 @@
 # Instructions and statements of the exectuable file: MCRTlxx  
-Executable files can only run on Ubuntu with CUDA, we have tested on different environments (graphics cards or CUDA).versions)  
+Executable files can only run on Ubuntu with CUDA, we have tested on different environments (graphics cards or CUDA).
 The testing environments are:  
 |Environment|Graphics Card|Driver Version|CUDA Version|
 |:---|:---|:---|:---|
