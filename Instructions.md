@@ -1,7 +1,10 @@
-# Instructions of the exectuable file: MCRTlxx  
-Files can only run on Ubuntu with CUDA, we have tested on different environments (graphics cards or CUDA).versions)  
-## Environment  
-Linux CUDA gcc&g++
+# Instructions and statements of the exectuable file: MCRTlxx  
+Executable files can only run on Ubuntu with CUDA, we have tested on different environments (graphics cards or CUDA).versions)  
+The testing environments are:  
+|Environment|Graphics Card|Driver Version|CUDA Version|
+|:---|:---|:---|:---|
+| |Nvidia GeForce RTX 3090|460.84|11.1| 
+
 ## How to run  
 After download files, need to grant permissions to MCRTlxx:
 ```
@@ -12,4 +15,13 @@ Run the exectuable file:
 ```
 sh xxx.sh 
 #xxx.sh is a script file, including input and output Settings
-```
+```   
+You can design the input files according to your own needs, and then use MCRTlxx to simulate your mirror field.
+
+## How to design the inputfiles   
+Inputfiles consist of three files, a json file for setting simulation parameters, a scn file for setting heliostat field and a txt file for simulated heliostat id().
+
+
+## Results  
+Results are stored in a TXT file as a two-dimensional array.
+
