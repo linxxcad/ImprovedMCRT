@@ -1,0 +1,15 @@
+{
+ "sun_azimuth" : 170.177639,
+"sun_altitude" : 10.701386,
+ "csr": 0.1,
+ "dni": 1000.0,
+ "num_of_sunshape_groups": 1024,
+ "num_per_sunshape_group": 2048,
+ "inverse_transform_sampling_groups":512,
+
+ "receiver_pixel_length": 0.01,
+
+ "helio_disturb_std": 0.001,
+ "helio_reflected_rate": 0.88,
+ "helio_pixel_length": 0.01
+}
