@@ -76,4 +76,4 @@ Inputfiles consist of two files, a json file for setting simulation parameters, 
 Results are stored in a TXT file as a two-dimensional array.
 
 ## Statements  
-If you have problems running the program, please contact the author at linxxcad@zju.edu.cn. In addition, readers who need the code can contact the author, which can be given after qualification review and assessment.
+If have problems running the program, please contact the author at linxxcad@zju.edu.cn. In addition, those who need the code can contact the author too, which can be given after qualification review and assessment.
