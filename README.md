@@ -39,13 +39,13 @@ Inputfiles consist of two files, a json file for setting simulation parameters, 
 |helio_pixel_length|Pixel of heliostat, determines the number of microheliostats|
 ### Scn file - heliostat field establishment parameters
 #### Ground Boundary
-|||
+|Item|Meanings|
 |:---|:---|
 |ground|M,N size of east to west and north to south, respectively|
 |ngrid|Number of heliostat field, 1|  
   
 #### Receiver attributes
-|||
+|Item|Meanings|
 |:---|:---|
 |Recv|Type of receiver, 0 is rectangle, 1 is cylinder|
 |pos|Position of center of receiver|
@@ -54,7 +54,7 @@ Inputfiles consist of two files, a json file for setting simulation parameters, 
 |face|Rectangle: ![Picture](coordinate.png)| 
   
 #### Grid attributes
-|||
+|Item|Meanings|
 |:---|:---|
 |Grid|Type of scene, only 0, others remain to be developed|
 |pos|Position of southwest of the heliostat field|
@@ -64,7 +64,7 @@ Inputfiles consist of two files, a json file for setting simulation parameters, 
 |type|type of heliostats inside, only 0,  others remain to be developed|   
   
 #### Heliostats
-|||
+|Item|Meanings|
 |:---|:---|
 |gap|Interval of subheliostat, default: 0 0 |
 |matrix|number of subheliostat, default: 1 1|
