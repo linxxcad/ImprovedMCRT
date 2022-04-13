@@ -12,7 +12,7 @@ end
 
 # Grid1 attributes
 Grid 0
-pos 	-660 	0 		-660
+pos 	-660 	0 		660
 size 	1320 	6 		1170
 inter 	6		6		6
 n 		6282
