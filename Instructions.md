@@ -16,7 +16,7 @@ Run the exectuable file:
 sh xxx.sh 
 #xxx.sh is a script file, including input and output Settings
 ```   
-You can design the input files according to your own needs, and then use MCRTlxx to simulate your mirror field.
+You can design the input files according to your own needs, and then use MCRTlxx to simulate your heliostat field.
 
 ## How to design the inputfiles   
 Inputfiles consist of three files, a json file for setting simulation parameters, a scn file for setting heliostat field and a txt file.
