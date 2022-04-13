@@ -1,12 +1,11 @@
 # Instructions and statements of the exectuable file: MCRTlxx  
 Executable files can only run on Ubuntu with CUDA, we have tested on different environments (graphics cards or CUDA).  
 Different testing environments and running times(e.g. 6282_12clock.sh with 200 million rays) are:  
-|Graphics Card|Driver Version|CUDA Version|Running times|
+|Graphics Card|Driver Version|CUDA Version|Running time|
 |:---|:---|:---|:---|
 |Nvidia GeForce RTX 3090|460.84|11.1| 0.13s|
-|Nvidia GeForce RTX 2080ti|460.84|11.1| 0.13s|
-|Nvidia GeForce RTX 1080|460.84|11.1| 0.13s|
-|Nvidia GeForce RTX 960|460.84|11.1| 0.13s|
+|Nvidia GeForce RTX 1080ti|470.103|10.2| 0.25s|
+|Nvidia GeForce RTX 1080ti|455.45|11.1| 0.38s|
 ## How to run  
 After download files, need to grant permissions to MCRTlxx:
 ```
