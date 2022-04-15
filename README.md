@@ -14,7 +14,7 @@ Different testing environments and running times(e.g. 6282_12clock.sh with 200 m
 After download files, need to grant permissions to MCRTlxx:
 ```
 cd "current directory"
-sudo chmod +777 MCRTlxx
+chmod 777 MCRTlxx
 ```  
 Run the exectuable file:
 ```
@@ -76,7 +76,7 @@ Inputfiles consist of two files, a json file for setting simulation parameters, 
 
 
 ## Results  
-Results are stored in a TXT file as a two-dimensional array.
+Results are stored in a TXT file as a two-dimensional array. Each data of txt file corresponds to the flux density of each small pixel on the receiver panel.
 
 ## Statements  
-If have problems running the program, please contact the author at linxxcad@zju.edu.cn. In addition, those who need the code can contact the author too, which can be given after qualification review and assessment.
+If have problems, please contact the author at linxxcad@zju.edu.cn. 
